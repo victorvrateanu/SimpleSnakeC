@@ -1,0 +1,15 @@
+apple
+hangman
+pear
+telephone
+bmw
+tzanca
+computer
+intel
+amd
+lamb
+silence
+napalm
+guitar
+interface
+folders
